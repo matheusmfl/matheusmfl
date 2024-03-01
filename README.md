@@ -10,41 +10,34 @@
 
 
 <li> React JS </li>
-<li> BackEnd com Elixir e NodeJS </li>
-<li> Métodos HTTP </li>
-<li> Javascript (Intermediário para Avançado) </li>
+<li> Javascript </li>
+<li> Bancos SQL | postgreSQL </li>
+<li> Firebase  </li>
 <li> CSS e seus pré-processadores como Sass </li>
 <li> Figma intermediário </li>
 <li> Designer System aplicado ao FrontEnd </li>
 <li> Metodologias ágeis (Scrum , Kanban ) </li>
 <li> HTML Semântico e acessível </li>
-<li> Programação Funcional </li>
-<li> POO </li>
 <li> Git E Github </li>
 <li> NextJS </li>
-<li> Conceitos de programação Assíncrona </li>
-<li> Rest API </li>
-<li> TypeScript Aplicado ao React </li>
-<li> Imutabilidade  </li>
+<li> NestJS </li>
+<li> Fastify </li>
+<li> Express </li>
+<li> PrismaORM | TypeORM | Drizzle ORM </li>
+<li> Typescript avançado </li>
+<li> Arquitetura SOLID  </li>
+<li> TDD </li>
+<li> DDD  </li>
+<li> Jest | Vitest </li>
+<li> Docker  </li>
+<li> CI/CD </li>
+<li> Firebase </li>
 <li> Clear Code  </li>
 
 </ul>
         
         
- <br>
- 
-<h3> Noções </h3>
- <ul>
-        <li> Designer Patterns</li>
-        <li> Libs React FrontEnd como ChakraUI e Radix</li>
-        <li> Libs Backend como JWT, Express, BCrypt e outras</li>
-        <li> MySQL</li>
-        <li> JamStack</li>
-        <li> MVC</li>
-        <li> Docker</li>
-        <li> TailwindCss</li>
-        <li> BootStrap</li>
-      </ul>
+
 
  <br>
 
@@ -55,7 +48,8 @@
 
         Desenvolvedor FrontEnd.
 
-        Desenvolvimento de aplicações web para pequenas empresas que buscavam digitalização dos seus processos eletrônicos.
+        Desenvolvimento de aplicações web para pequenas
+        empresas que buscavam digitalização dos seus processos eletrônicos.
 
 <br>
     Desenvolvedor FullStack Jr.
