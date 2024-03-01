@@ -1,13 +1,8 @@
-        Desenvolvedor / FrontEnd ReactJS
-
-        Proficiência em Javascript; 
-        Conhecimentos em programação, orientação a objetos e algoritmos; 
-        Conhecimento em desenvolvimento backend com NODE;
-        Conhecimento com sistemas de controle de versão (GIT);
-
-        Estudando bootcamp Ignite na rocketseat;
-        Estudando boas práticas na escrita de software Clean Code;
-        Estudando Inglês Avançado;
+        Dev FullStack Javascript
+        NestJS - NextJS
+      
+       Desenvolvedor FullStack JetBracket
+       ZenonTech Co-Founder
  
 <br>
 <h2> Conhecimentos técnicos: </h2>
@@ -56,19 +51,28 @@
 <br>
   
     Desenvolvedor FrontEnd  - FreeLancer
-       LaAust Soluções digitais| 2021 - atual
+       LaAust Soluções digitais| 2021 - 2022
 
-        Desenvolvedor FrontEnd com foco em Javascript.
+        Desenvolvedor FrontEnd.
 
-        Criação de Websites, aplicações Web e e-mail Marketing para empresas que buscam alavancar suas vendas
-
-        Aqui me desenvolvi como profissional e como pessoa, pude solucionar problemas para pessoas que buscavam
-        soluções digitais, aprimorei meus conhecimento em HTML Semântico e inclusivom, também aprendi noções de 
-        Marketing, SEO e Ui/UX Designer. Aprimorei habilidades como Designer System, trabalhei com uma equipe formada
-        com profissionais do Marketing e designers, Consegui agregar à empresa utilizando táticas Ágiles como SCRUM 
-        que aprendi com meus anos de estudo.
+        Desenvolvimento de aplicações web para pequenas empresas que buscavam digitalização dos seus processos eletrônicos.
 
 <br>
+    Desenvolvedor FullStack Jr.
+       JetBrackets | 2024 - atual
+
+        Desenvolvimento de softwares com foco em Sass.
+        Atuação com time multi-disciplinar
+        Desenvolvimento de API Rest em NestJS
+        Desenvolvimento de interfaces web robustas com NextJS na versão 14>
+
+<br>
+    Desenvolvedor FullStack | Co-Founder
+       ZenonTech | 2023 - atual
+
+        Cofounder de uma pequena startup que atua no mercado de soluções digitais
+<br>
+
 
     Curso Superior de Tecnologia (CST) 
        Universidade Estácio de Sá  | 2022 - 2025
