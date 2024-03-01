@@ -1,8 +1,8 @@
-       <p style={{text-align:center}}> Dev FullStack Javascript
+        Dev FullStack Javascript
         NestJS - NextJS
       
        Desenvolvedor FullStack JetBracket
-       ZenonTech Co-Founder </p >
+       ZenonTech Co-Founder 
  
 <br>
 <h2> Conhecimentos técnicos: </h2>
