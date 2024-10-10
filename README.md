@@ -4,37 +4,7 @@
        Desenvolvedor FullStack JetBracket
        ZenonTech Co-Founder 
  
-<br>
-<h2> Conhecimentos técnicos: </h2>
-<ul>
 
-
-<li> React JS </li>
-<li> Javascript </li>
-<li> Bancos SQL | postgreSQL </li>
-<li> Firebase  </li>
-<li> CSS e seus pré-processadores como Sass </li>
-<li> Figma intermediário </li>
-<li> Designer System aplicado ao FrontEnd </li>
-<li> Metodologias ágeis (Scrum , Kanban ) </li>
-<li> HTML Semântico e acessível </li>
-<li> Git E Github </li>
-<li> NextJS </li>
-<li> NestJS </li>
-<li> Fastify </li>
-<li> Express </li>
-<li> PrismaORM | TypeORM | Drizzle ORM </li>
-<li> Typescript avançado </li>
-<li> Arquitetura SOLID  </li>
-<li> TDD </li>
-<li> DDD  </li>
-<li> Jest | Vitest </li>
-<li> Docker  </li>
-<li> CI/CD </li>
-<li> Firebase </li>
-<li> Clear Code  </li>
-
-</ul>
         
         
 
